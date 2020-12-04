@@ -1,1 +1,19 @@
 
+# Popularidade presidencial duranta a pandemia 
+
+
+Este conjunto de dados diz respeito aos discursos proferidos pelos parlamentares da Camara dos Deputados do período de março até agosto de 2020 e que discutem a pandemia de covid-19. Foram coletados manualmente através da plataforma online da Câmara. 
+
+\newpage 
+
+# Popularidade presidencial duranta a pandemia 
+
+Faz parte de um estudo que busca analisar como a popularidade presidencial é capaz de afetar o posicionamento dos parlamentares brasileiros.
+
+\newpage 
+
+# Popularidade presidencial duranta a pandemia 
+
+Os dados são divididos por ondas, sendo a terceira onde aquela na qual se observa o crescimento da popularidade presidencial, a despeito do agravamento do quadro da crise de saúde.
+```{r, echo=FALSE,include=FALSE}
+library(tidyverse)
